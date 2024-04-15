@@ -13,7 +13,7 @@
 
   <h2>Technologies Used</h2>
 
-  <p>This project is built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, ensuring a robust and efficient platform for price comparison.</p>
+  <p>This project is built using the MRN (MongoDB, React.js, Node.js) stack, ensuring a robust and efficient platform for price comparison.</p>
 
   <h2>Installation</h2>
 
